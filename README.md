@@ -3,6 +3,9 @@ Dieses Plugin ermöglicht es, erlaubte Blöcke innerhalb eines `core/group`-Bloc
 
 ## 🔧 Funktionen
 
+![Block Restrictions im Editor](./assets/editor-screenshot.png)
+
+
 - Einschränkung erlaubter Blöcke je nach Stilklasse (`is-style-…`)
 - Automatische Registrierung benutzerdefinierter Block-Stile
 - Kompatibel mit dem `core/group`-Block
