@@ -1,10 +1,10 @@
 # Block Restrictions (WordPress Plugin)
 Dieses Plugin ermöglicht es, erlaubte Blöcke innerhalb eines `core/group`-Blocks in WordPress gezielt einzuschränken – basierend auf dem zugewiesenen Block-Stil (z. B. `is-style-neuigkeit`). Zusätzlich wird der Stil **„Neuigkeit“** per Plugin registriert und im Editor auswählbar gemacht.
 
-## 🔧 Funktionen
-
 ![Block Restrictions im Editor](./assets/editor_screenshot.png)
 
+
+## 🔧 Funktionen
 
 - Einschränkung erlaubter Blöcke je nach Stilklasse (`is-style-…`)
 - Automatische Registrierung benutzerdefinierter Block-Stile
